@@ -7,7 +7,7 @@ retainface-mobilenetv2.5 for andriod
 
 2.open the project with andriod studio
 
-3.run the project
+3.buid and run the project
 
 4.enjoy it
 
